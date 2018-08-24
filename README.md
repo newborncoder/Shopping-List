@@ -8,4 +8,5 @@ This application is built using node.js and Electron.
 
 To run:
 
-npm start
+1. npm install
+2. npm start
